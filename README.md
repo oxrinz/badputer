@@ -27,7 +27,7 @@ Full of workarounds / bad design
 
 00011 001 <- Load 3 into register
 
-10000 100 <- Perform addiction of 2 (stored in RAM adress 10000) and 3 (stored in register)
+10000 100 <- Perform addition of 2 (stored in RAM adress 10000) and 3 (stored in register)
 
 
 ^ Register should now have the value 5 !
