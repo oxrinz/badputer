@@ -22,9 +22,13 @@ Full of workarounds / bad design
 
 ### A basic application would look like this:
 00010 001 <- Load 2 into register
+
 10000 011 <- Store loaded value 2 into RAM address 10000
+
 00011 001 <- Load 3 into register
+
 10000 100 <- Perform addiction of 2 (stored in RAM adress 10000) and 3 (stored in register)
+
 
 ^ Register should now have the value 5 !
 
